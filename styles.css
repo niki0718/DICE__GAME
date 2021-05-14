@@ -1,0 +1,33 @@
+body{
+    background-color: gray;
+    text-align: center;
+    
+
+}
+.hd1{
+     font-family: 'Lobster', cursive;
+     font-size: 60px;
+     font-weight: bold;
+     color: aqua;
+     margin: 30px;
+}
+p{
+    font-family: 'Reggae One', cursive;
+    font-family: 20px;
+}
+.dice{
+    text-align: center;
+    display: inline-block;
+
+}
+h3{
+    font-family: 'Reggae One', cursive;
+    font-family: 20px;
+    padding: 40px;
+    font-weight: normal;
+    
+}
+img{
+width: 80%;
+
+}
